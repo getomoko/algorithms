@@ -10,13 +10,13 @@ You should ouput the minimum number of pixels, which is the answer.
 
 ### Sample test
 #### input
-    `2 3 2`
+    2 3 2
 
-    `111`
-    `010`
+    111
+    010
     
-    `100`
-    `100`
+    100
+    100
 
 #### output
-    `1`
+    1
