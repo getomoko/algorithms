@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465110396 source:d:\code\pour_water\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+
